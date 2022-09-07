@@ -1,5 +1,5 @@
 # Online_Quiz_Portal_using_RestAPI
--Project Agenda: To create an online quiz portal with multiple REST APIs where users can browse different quizzes, attempt them, and find their scores and standings.
+#Project Agenda: To create an online quiz portal with multiple REST APIs where users can browse different quizzes, attempt them, and find their scores and standings.
 
 #Description:
 This project, which aims to create an online quiz application, is based on different REST APIs through which users can log in and take quizzes. After finishing the quiz, they can find their standing and scores based on their accurate responses.
